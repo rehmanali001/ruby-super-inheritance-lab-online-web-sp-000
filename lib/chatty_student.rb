@@ -6,5 +6,6 @@ class ChattyStudent
   
   def raise_hand
     super
+    10.times do
     puts 
 end 
